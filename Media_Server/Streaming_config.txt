@@ -1,0 +1,4 @@
+echo "HD Quality"
+echo "SD"
+echo "4K"
+echo "8k"
